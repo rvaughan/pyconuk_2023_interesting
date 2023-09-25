@@ -48,3 +48,7 @@ Postgres
 pgVector
 
 facial 'recognition'
+
+Code link: https://github.com/Aiven-Labs/pgvector-find-faces-talk
+
+Talk link: https://pretalx.com/pyconuk-2023/talk/8N9DCQ/
