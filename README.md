@@ -4,3 +4,4 @@ This repository contains a list of things and talks I found interesting during [
 
   * [Day 1](./day_1/README.md)
   * [Day 2](./day_2/README.md)
+  * [Day 3](./day_3/README.md)
