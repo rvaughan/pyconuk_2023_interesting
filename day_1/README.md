@@ -9,7 +9,7 @@ Taking us through the origins of technical debt (coined by Ward Cunningham in hi
 > As an evolving program is continually changed, its complexity, reflecting deteriorating structure, increases unless work is done to maintain or reduce it.
 [Programs, Life Cycles, and Laws of Software Evolution](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf). M. Lehman, 1980.
 
-Entropy.
+Entropy. [OED](https://www.oxfordlearnersdictionaries.com/definition/american_english/entropy), [Britannica](https://www.britannica.com/science/entropy-physics)
 
 Martin Fowler on [technical debt](https://martinfowler.com/bliki/TechnicalDebt.html).
 
@@ -44,6 +44,13 @@ Talk video: https://www.youtube.com/watch?v=YJPu_TNedTs
 
 https://twitter.com/KevlinHenney
 
+## Adventures in Unicode: the `str` less travelled
+
+A really fun talk about the perils of strings and characters in Python. Who would've guessed that reversing the Swedish flag would give you the Spanish flag!
+
+Talk link: https://pretalx.com/pyconuk-2023/talk/9WJELU/
+
+Video link: https://www.youtube.com/watch?v=1yJi5DmZR-E
 
 ## Domain Driven Design and Python
 
@@ -65,3 +72,5 @@ https://seddonym.me/
 A workshop tutorial.
 
 Code: https://github.com/ThomasGregory/pycon-maths_in_motion/tree/main
+
+Talk link: https://pretalx.com/pyconuk-2023/talk/DUHJZF/
